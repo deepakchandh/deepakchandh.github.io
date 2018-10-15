@@ -1,3 +1,3 @@
   This repository contains files of deepakchandh.me website
   
- [deepakchandh]("http://deepakchandh.me/")
+[Deepak Chandh](http://deepakchandh.me/)
