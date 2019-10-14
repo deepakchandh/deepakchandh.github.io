@@ -1,3 +1,3 @@
-  This repository contains files of deepakchandh.me website
+  This repository contains my own website
   
-[Deepak Chandh](http://deepakchandh.me/)
+[Deepak Chandh](http://deepakchandh.github.io/)
